@@ -1,18 +1,18 @@
 # Project Title: Name Abbreviation
 
-# Motivation: 
+## Motivation: 
 To hone in my skills I would like to make a simple name abbreviation application using TDD principals. 
 
-# Opening Statement:
+## Opening Statement:
 Create a simple name abbreviation application that will take a persons full name and output their first and last name initials. 
 
-# Draft Plan:
+## Draft Plan:
 Break down a string and create an array, in which every letter is split into its own element. <br />
 Grab the first element of the first word/name aswell as the first element of the last word/name.<br />
 Capitalize both letters.<br />
 Insert a full stop inbetween both letters. <br />
 
-# Build Status
+## Build Status
 Testing stage <br />
 
 ## Installation instructions:
@@ -27,8 +27,8 @@ gem install rubocop<br />
 
 ## How to run programme:
 On CML type:<br />
-git clone https://github.com/ElliottZaki/name_abbreviation.git
-cd name_abbreviation
+git clone https://github.com/ElliottZaki/name_abbreviation.git <br />
+cd name_abbreviation <br />
 
 ## How to run tests:
 On CML type:<br />
