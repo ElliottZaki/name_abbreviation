@@ -3,10 +3,11 @@ class Name_abbreviation
 
   def start_app(name)
     array = transform_string_to_array(name)
-    initals = find_inital(array)
+    initals = find_initial(array)
     capitalize(initals)
   end
 
+  private
 
   def transform_string_to_array(name)
     array = name.split(' ')

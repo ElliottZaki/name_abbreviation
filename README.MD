@@ -13,8 +13,11 @@ Capitalize both letters.<br />
 Insert a full stop inbetween both letters. <br />
 
 ## Build Status
-Testing stage <br />
-
+Tests Completed. <br />
+Tests Passing.
+Application Completed. <br />
+Application Refractored. <br />
+Edge cases - Not completed. <br />
 ## Installation instructions:
 On CML type:<br />
 \curl -L https://get.rvm.io | bash -s stable<br /> 
